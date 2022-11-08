@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 256.00001 255.99999"
+   version="1.1"
+   sodipodi:docname="invision-login-icon.svg"
+   width="256"
+   height="256"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\Pieter-Jan Briers\Projects\ss14-asset-dump\invision-login-icon.png"
+   inkscape:export-xdpi="36"
+   inkscape:export-ydpi="36">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="2.2221404"
+     inkscape:cx="98.869332"
+     inkscape:cy="148.7096"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#d5d5d5;}.cls-2{fill:#e23229;}</style>
+  </defs>
+  <title
+     id="title6">Logo</title>
+  <g
+     id="g829"
+     transform="matrix(1.2120064,0,0,1.2120064,-84.495022,-54.273627)"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 109.24,253.60999 41.87,-200.640005 -59.68,4.17 -7.36,35 25.46,-1.78 -34.52,165.640005 z"
+       class="cls-2"
+       id="path148" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path12"
+       d="m 248.01,141.39999 20.16,-96.620005 -26.09,1.92 -95.51,112.140005 -5.07,24.16 65.06,-4.5 -14.45,69.34 34.23,-2.39 14.45,-69.24 27.61,-1.89 7.24,-34.78 z m -32.83,5.11 -20.11,1.38 26,-29.61 z"
+       class="cls-2" />
+  </g>
+</svg>
